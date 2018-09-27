@@ -4,7 +4,9 @@
 #Pendulum offers an alternative when pytz has fitz..https://pendulum.eustace.io/docs/#using-the-timezone-library-directly
 
 import pendulum
+
 import datetime
+
 country = "Europe/Paris"
 
 tz_to_display = pendulum.timezone(country)
