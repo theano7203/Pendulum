@@ -1,7 +1,8 @@
 # Pendulum
 #Could not get pytz in Python 3.6 to import so discovered Pendulum. Married it to a teaching script and modified to Pendulum and it worked
 #Original script teaching code came from Tim Buchalka but had to modify it to get it to work. Reseached and lots on issues with pytz.
-#Pendulum offers an alternative when pytz has fitz..https://pendulum.eustace.io/docs/#using-the-timezone-library-directly (no indents)
+#Pendulum offers an alternative when pytz has fitz..https://pendulum.eustace.io/docs/#using-the-timezone-library-directly 
+#(no indents) IntelliJ
 
 import pendulum
 
